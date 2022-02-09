@@ -22,6 +22,10 @@ public class Main {
             array[i] = scanner.nextInt();
             i++;
         }
+        System.out.print("Property list: ");
+        for (int j = 0; j < array.length; j++) {
+            System.out.print(array[j] + "\t");
+        }
         int max = array[0];
         int index = 1;
         for (int j = 0; j < array.length; j++) {
