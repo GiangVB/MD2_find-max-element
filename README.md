@@ -1,1 +1,1 @@
-# Thực hành Java tìm phần tủ lớn nhất #
+# Thực hành Java tìm giá trị phần tử lớn nhất trong mảng #
